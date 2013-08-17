@@ -1,0 +1,277 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* KeyboardAnimationExampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {952, 778}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 520}";
+		};
+	};
+	1D3623250D0F684500981E51 /* KeyboardAnimationExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2802, 1501}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 1349}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* KeyboardAnimationExample */ = {
+		activeExec = 0;
+		executables = (
+			5988C96A13CC578100BC6820 /* KeyboardAnimationExample */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5988C96A13CC578100BC6820 /* KeyboardAnimationExample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* KeyboardAnimationExample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* KeyboardAnimationExample */,
+		);
+		codeSenseManager = 5988C97013CC579500BC6820 /* Code sense */;
+		executables = (
+			5988C96A13CC578100BC6820 /* KeyboardAnimationExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					774,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 332501749;
+			PBXWorkspaceStateSaveDate = 332501749;
+		};
+		perUserProjectItems = {
+			590BE62F13D192F800DE3B87 /* PBXTextBookmark */ = 590BE62F13D192F800DE3B87 /* PBXTextBookmark */;
+			5988C98D13CC58DE00BC6820 = 5988C98D13CC58DE00BC6820 /* PBXTextBookmark */;
+			5988C9D113CC6DF500BC6820 = 5988C9D113CC6DF500BC6820 /* PBXTextBookmark */;
+			5988C9D213CC6DF500BC6820 = 5988C9D213CC6DF500BC6820 /* PBXTextBookmark */;
+			5988CA5113CC944A00BC6820 = 5988CA5113CC944A00BC6820 /* PBXTextBookmark */;
+			5988CA5213CC944A00BC6820 = 5988CA5213CC944A00BC6820 /* PBXTextBookmark */;
+			5988CA5513CC944A00BC6820 = 5988CA5513CC944A00BC6820 /* PBXTextBookmark */;
+			59CC5BF313D06A5600C048A4 = 59CC5BF313D06A5600C048A4 /* PBXTextBookmark */;
+			59CC5BF413D06A5600C048A4 = 59CC5BF413D06A5600C048A4 /* PBXTextBookmark */;
+			59CC5BF513D06A5600C048A4 = 59CC5BF513D06A5600C048A4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5988C96F13CC579500BC6820 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	590BE62F13D192F800DE3B87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5988C9CD13CC6DE900BC6820 /* PickerViewController.m */;
+		name = "PickerViewController.m: 25";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 0;
+	};
+	5988C96A13CC578100BC6820 /* KeyboardAnimationExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = KeyboardAnimationExample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5988C96F13CC579500BC6820 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5988C97013CC579500BC6820 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5988C97113CC57AA00BC6820 /* KeyboardViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {952, 778}}";
+			sepNavSelRange = "{375, 0}";
+			sepNavVisRange = "{0, 422}";
+		};
+	};
+	5988C97213CC57AA00BC6820 /* KeyboardViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1662, 1444}}";
+			sepNavSelRange = "{570, 0}";
+			sepNavVisRange = "{101, 1429}";
+		};
+	};
+	5988C98013CC585500BC6820 /* image001.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 100}, {1265, 902}}";
+		};
+	};
+	5988C98D13CC58DE00BC6820 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* KeyboardAnimationExampleAppDelegate.h */;
+		name = "KeyboardAnimationExampleAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 0;
+	};
+	5988C9CC13CC6DE900BC6820 /* PickerViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = PickerViewController.h;
+		path = /Users/imac8/Desktop/KeyboardAnimationExample/Classes/PickerViewController.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {952, 746}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	5988C9CD13CC6DE900BC6820 /* PickerViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = PickerViewController.m;
+		path = /Users/imac8/Desktop/KeyboardAnimationExample/Classes/PickerViewController.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1682, 912}}";
+			sepNavSelRange = "{706, 0}";
+			sepNavVisRange = "{0, 1009}";
+		};
+	};
+	5988C9D113CC6DF500BC6820 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KeyboardAnimationExampleAppDelegate.m */;
+		name = "KeyboardAnimationExampleAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 1349;
+		vrLoc = 0;
+	};
+	5988C9D213CC6DF500BC6820 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5988C9D313CC6DF500BC6820 /* UITextField.h */;
+		name = "UITextField.h: 181";
+		rLen = 62;
+		rLoc = 7608;
+		rType = 0;
+		vrLen = 2186;
+		vrLoc = 6650;
+	};
+	5988C9D313CC6DF500BC6820 /* UITextField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextField.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextField.h;
+		sourceTree = "<absolute>";
+	};
+	5988CA5113CC944A00BC6820 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5988C9CC13CC6DE900BC6820 /* PickerViewController.h */;
+		name = "PickerViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	5988CA5213CC944A00BC6820 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5988CA5313CC944A00BC6820 /* UINavigationBar.h */;
+		name = "UINavigationBar.h: 105";
+		rLen = 0;
+		rLoc = 4063;
+		rType = 0;
+		vrLen = 2014;
+		vrLoc = 3097;
+	};
+	5988CA5313CC944A00BC6820 /* UINavigationBar.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UINavigationBar.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationBar.h;
+		sourceTree = "<absolute>";
+	};
+	5988CA5513CC944A00BC6820 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5988C97113CC57AA00BC6820 /* KeyboardViewController.h */;
+		name = "KeyboardViewController.h: 17";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 422;
+		vrLoc = 0;
+	};
+	59CC5BF313D06A5600C048A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5988C97213CC57AA00BC6820 /* KeyboardViewController.m */;
+		name = "KeyboardViewController.m: 19";
+		rLen = 0;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 1429;
+		vrLoc = 101;
+	};
+	59CC5BF413D06A5600C048A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5988C9CD13CC6DE900BC6820 /* PickerViewController.m */;
+		name = "PickerViewController.m: 29";
+		rLen = 0;
+		rLoc = 807;
+		rType = 0;
+		vrLen = 1115;
+		vrLoc = 0;
+	};
+	59CC5BF513D06A5600C048A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5988C9CD13CC6DE900BC6820 /* PickerViewController.m */;
+		name = "PickerViewController.m: 25";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 1115;
+		vrLoc = 0;
+	};
+}
